@@ -1,0 +1,11 @@
+{
+    "require": {
+        "telegram-bot/api": "^2.5",
+        "longman/telegram-bot": "^0.83.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Service\\": "Service/"
+        }
+    }
+}
